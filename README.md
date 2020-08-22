@@ -7,7 +7,7 @@ Files are related to front end implementation of the web interface of our learni
 
 Note : final video.mp4 has  working video 
 
-[folder] LMSworking code 
+[folder] LMSworking code :
 Backend implementation using python for emotion recognition
 The data set is in fer.csv file . link to dataset : 
 Model is saved in emotion_analysis file with(70% accuracy)and emotion  recognition
@@ -25,6 +25,6 @@ Environment used anaconda spyder and jupyter
 
 Note : emotion_recognition.mp4 has  working video 
 
-[folder] Screenshots
+[folder] Screenshots :
 It has files related to outputs of python code for emotion recognition
 
